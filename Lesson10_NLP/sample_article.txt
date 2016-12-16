@@ -1,0 +1,15 @@
+Computer scientists have defined artificial intelligence in many different ways, but at its core, AI involves machines that think the way humans think. Of course, it's very difficult to determine whether or not a machine is "thinking," so on a practical level, creating artificial intelligence involves creating a computer system that is good at doing the kinds of things humans are good at.
+
+The idea of creating machines that are as smart as humans goes all the way back to the ancient Greeks, who had myths about automatons created by the gods. In practical terms, however, the idea didn't really take off until 1950.
+
+In that year, Alan Turing published a groundbreaking paper called "Computing Machinery and Intelligence" that posed the question of whether machines can think. He proposed the famous Turing test, which says, essentially, that a computer can be said to be intelligent if a human judge can't tell whether he is interacting with a human or a machine.
+
+The phrase artificial intelligence was coined in 1956 by John McCarthy, who organized an academic conference at Dartmouth dedicated to the topic. At the end of the conference, the attendees recommended further study of "the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it. An attempt will be made to find how to make machines use language, form abstractions and concepts, solve kinds of problems now reserved for humans, and improve themselves."
+
+This proposal foreshadowed many of the topics that are of primary concern in artificial intelligence today, including natural language processing, image recognition and classification, and machine learning.
+
+In the years immediately after that first conference, artificial intelligence research flourished. However, within a few decades it became apparent that the technology to create machines that could truly be said to be thinking for themselves was many years off.
+
+But in the last decade, artificial intelligence has moved from the realms of science fiction to the realm of scientific fact. Stories about IBM's Watson AI winning the game show Jeopardy and Google's AI beating human champions at the game of Go have returned artificial intelligence to the forefront of public consciousness.
+
+Today, all of the largest technology companies are investing in AI projects, and most of us interact with AI software every day whenever we use smartphones, social media, Web search engines or ecommerce sites. And one of the types of AI that we interact with most often is machine learning.

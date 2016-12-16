@@ -1,0 +1,5 @@
+JPEG (/ˈdʒeɪpɛɡ/ jay-peg)[1] is a commonly used method of lossy compression for digital images, particularly for those images produced by digital photography. The degree of compression can be adjusted, allowing a selectable tradeoff between storage size and image quality. JPEG typically achieves 10:1 compression with little perceptible loss in image quality.[2]
+
+JPEG compression is used in a number of image file formats. JPEG/Exif is the most common image format used by digital cameras and other photographic image capture devices; along with JPEG/JFIF, it is the most common format for storing and transmitting photographic images on the World Wide Web.[3] These format variations are often not distinguished, and are simply called JPEG.
+
+The term "JPEG" is an acronym for the Joint Photographic Experts Group, which created the standard. The MIME media type for JPEG is image/jpeg, except in older Internet Explorer versions, which provides a MIME type of image/pjpeg when uploading JPEG images.[4] JPEG files usually have a filename extension of .jpg or .jpeg.
