@@ -1,0 +1,2 @@
+For those interested in Web Scraping with Python I recommend the following very good book:
+http://cdwanze.github.io/%E7%94%B5%E8%84%91/python/%E7%BD%91%E7%BB%9C%E6%8A%93%E5%8F%96/OReilly%20Web%20Scraping%20with%20Python.pdf
